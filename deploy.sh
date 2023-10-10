@@ -1,1 +1,2 @@
-this is script for deploy file
+this is script for deploy fil
+adeed extra logice
